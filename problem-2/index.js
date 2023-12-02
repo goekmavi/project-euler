@@ -15,4 +15,4 @@ while (current < limit) {
     current += tempPrevious;
 }
 
-console.log('Result;', sum);
+console.log('Result:', sum);
